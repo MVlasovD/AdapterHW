@@ -1,3 +1,6 @@
+/**
+ * @author VMN
+ */
 package net.dunice;
 
 public class Calculator {
@@ -6,7 +9,7 @@ public class Calculator {
     }
 
     public static enum Operation {
-        SUM, SUB, MULT, DIV, POW;
+        SUM, SUB, MULT, DIV, POW
     }
 
     public static class Formula {

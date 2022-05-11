@@ -1,3 +1,6 @@
+/**
+ * @author VMN
+ */
 package net.dunice;
 
 public interface Ints {
